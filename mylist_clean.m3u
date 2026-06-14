@@ -17,6 +17,9 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/109511
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 03" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 03
 http://stream.cammonitorplus.net/1752/index.m3u8
 
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-name="FOX 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" group-title="FIFA World Cup 2026",FOX 4K
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465858
+
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 01" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 02" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 02
@@ -28,13 +31,18 @@ http://falcontv.top/0990183718/6298570159/405997
 #EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 05" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 05
 http://wickediptv.xyz/Randall123/Randall321/53390
 
+#EXTINF:-1 tvg-id="FS1.HD.us2" tvg-name="FS1 4K" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="FIFA World Cup 2026",FS1 4K
+http://atlanticflixtv.online/1472870781733517/7F0A390BF521/1436346
+
 #EXTINF:-1 tvg-id="WNJU-DT.us_locals1" tvg-name="Telemundo 01" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 01
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3875
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120272
 #EXTINF:-1 tvg-id="KVEA-DT.us_locals1" tvg-name="Telemundo 02" tvg-logo="https://go4.pw/AMERICA/USA/TELEMUNDO.png" group-title="FIFA World Cup 2026",Telemundo 02
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/110009
 
-#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN 4K CA
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN East 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN East 4K CA
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+#EXTINF:-1 tvg-id="TSN.4K.ca2" tvg-name="TSN West 4K CA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4k-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN West 4K CA
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119334
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1 CA 01" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" group-title="FIFA World Cup 2026",TSN1 CA 01
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
@@ -70,30 +78,27 @@ http://wickediptv.xyz/Randall123/Randall321/53842
 #EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One UK 05" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC One UK 05
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/77361
 
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC 4K UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC 4K UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120330
+
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="FIFA World Cup 2026",BBC Two UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98852
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 01" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 01
-http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/239.ts
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120268
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 02" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 02
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/98826
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/22223
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 03" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 03
 http://ahhshitherewegoagain.sytes.net:2096/Shawnda/3741562890/825512
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 04" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 04
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/22223
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 05" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 05
-http://x88tv.co/942126879465/526468117856/279001
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 UK 06" tvg-logo="https://i.ibb.co/g6TqxVm/ITV1.png" group-title="FIFA World Cup 2026",ITV1 UK 06
-http://hanaiptv.com:8080/eStGiLLACr/Ns3Y47v3rb/1985
 
 #EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 UK" tvg-logo="https://i.ibb.co/rQhNxbN/ITV4.png" group-title="FIFA World Cup 2026",ITV4 UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98823
 
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FIFA World Cup 2026",M6 FR
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120338
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465917
 
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/das-erste-de.png?raw=true" group-title="FIFA World Cup 2026",Das Erste DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4659
+http://falcontv.top/0990183718/6298570159/403988
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/zdf-de.png?raw=true" group-title="FIFA World Cup 2026",ZDF DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230138
@@ -130,18 +135,18 @@ http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1946735
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/43
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4K HDR" tvg-logo="https://assets.bein.com/mena/sites/3/2026/05/4K-HDR-200x200-1.png" group-title="FIFA World Cup 2026",beIN SPORTS 4K HDR
-http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1950411
+http://asmr4k.world:8080/05347247405/3100934708/1246130
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NEWS_DIGITAL_Mono.png" group-title="FIFA World Cup 2026",beIN SPORTS News
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/315744
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 616 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch616_160_115" group-title="FIFA World Cup 2026",NOW Sports 616 4K
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/2066605
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120336
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 617 4K" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch617_160_115" group-title="FIFA World Cup 2026",NOW Sports 617 4K
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/2066604
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120337
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 618" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch618_160_115" group-title="FIFA World Cup 2026",NOW Sports 618
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/2066603
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465863
 #EXTINF:-1 tvg-id="" tvg-name="NOW Sports 619" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch619_160_115" group-title="FIFA World Cup 2026",NOW Sports 619
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/2066602
+http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465861
 
 
 # ==================================================
@@ -248,7 +253,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/36836
 #EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC News UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="News",BBC News UK
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBC.Parliament.HD.uk" tvg-name="BBC Parliament UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-parliament-uk.png?raw=true" group-title="News",BBC Parliament UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/17998
+http://falcontv.top/0990183718/6298570159/377712
 #EXTINF:-1 tvg-id="GBBB1600008R3" tvg-name="GB News UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/gb-news-uk.png?raw=true" group-title="News",GB News UK
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-gbnews-samsunguk/cb553d1e736c648898d43d62d6ef41a4dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27756c79e0a957f378bbdbe306f2c180680585ee2be5da5edf558138b3aa5e44919882a41e2845fc8d54aba9d850ec8119b71f34594c0a18c864681d3c569b96d8c350d4b6c7c89904697c650b7d3941b57f61d33672e65d987bcd36f15a85a19209293cabb76b112de991a8f613abe72f425ee2bab5b9a3689c06385b0e1a1282c38a0d71575249ff6b498f23b34cf0b91c9f2e95043aac2265169ee708252415191f9d85a87cc0586b751e6de084d62b3fb229a99a1cdebb98938f44facdcc4ab146653397c68e15ca68923df27c90ac5a4783a686c768abf61ebb6ed43026225fee8df7f8e79c3b9beb09d630ec4690f5fec20ea4f0478c9271e048f4fd7bb4ca10dbb68ff5813f44a218802ddb529e7aed8e47c5bffbe950497e788c489170da6e9ed1e797b2bc1af9abe584570a4092c3d7cd14ce7d285c27f0003edf0c2c40d3252081418480587eee63fcec090695521c85d226f630357b83096388f4e195b6efe17ddfa5d2fc51e7779afe71e4d4a6093ffb483acdfde0be02c8481ae6f6f73724b891e296a2edfbf865cbd1f4e7d7152c94f474baf085747a5c49db7d7d0209ed234ea0b631262d7f958145a053d305ce9e502bd69eb9d19b68cd91c9dbfff756bb17cf2515eceaa9f069eca8ec8480395d0273a6f85dc2ac033608720dd258cdd67cbf23222192f4b5ccd9e5e9d06eb3ffb2ecf4d9ccb5dcaec174da88fa3c95e27f90df3c7de/92/1920x1080_4716800/index.m3u8
 
@@ -478,7 +483,7 @@ http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/8271
 #EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-top-event-de.png?raw=true" group-title="Sports - EU",Sky Sport Top Event DE
 http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/180219
 #EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png?raw=true" group-title="Sports - EU",Sky Sport Bundesliga DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/539
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/410415
 #EXTINF:-1 tvg-id="Sky.Sport.F1.de" tvg-name="Sky Sport F1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-f1-de.png?raw=true" group-title="Sports - EU",Sky Sport F1 DE
 http://falcontv.top/0990183718/6298570159/393427
 #EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-premier-league-de.png?raw=true" group-title="Sports - EU",Sky Sport Premier League DE
@@ -490,7 +495,7 @@ http://falcontv.top/0990183718/6298570159/393432
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.de" tvg-name="Sky Sport Golf DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-golf-de.png?raw=true" group-title="Sports - EU",Sky Sport Golf DE
 http://falcontv.top/0990183718/6298570159/393428
 #EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sky-sport/sky-sport-austria-1-de.png?raw=true" group-title="Sports - EU",Sky Sport Austria 1 DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/122
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/481322
 
 # === 🇪🇸 ES ===
 
@@ -611,11 +616,11 @@ http://falcontv.top/0990183718/6298570159/382290
 #EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="Sport TV 2 PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-2-pt.png?raw=true" group-title="Sports - EU",Sport TV 2 PT
 http://falcontv.top/0990183718/6298570159/382291
 #EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="Sport TV 3 PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-3-pt.png?raw=true" group-title="Sports - EU",Sport TV 3 PT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/16054
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2052871
 #EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="Sport TV 4 PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-4-pt.png?raw=true" group-title="Sports - EU",Sport TV 4 PT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/16053
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/909927
 #EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="Sport TV 5 PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/sport-tv-5-pt.png?raw=true" group-title="Sports - EU",Sport TV 5 PT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/16052
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2052869
 
 # === 🇦🇱 AL ===
 
@@ -848,7 +853,7 @@ http://my.atrupo4k.com/TrgAzyh21/gojghV2xz8OaCOT/157299
 #EXTINF:-1 tvg-id="Canal+.Grand.Ecran.fr" tvg-name="CANAL+ Grand Écran FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-grand-ecran-fr.png?raw=true" group-title="Premium - EU",CANAL+ Grand Écran FR
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/199801
 #EXTINF:-1 tvg-id="Canal+.KIDS.fr" tvg-name="CANAL+ Kids FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/canal-plus-kids-fr.png?raw=true" group-title="Premium - EU",CANAL+ Kids FR
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/358
+http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/6424
 #EXTINF:-1 tvg-id="OCS.fr" tvg-name="Ciné+ OCS FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-ocs-fr.png?raw=true" group-title="Premium - EU",Ciné+ OCS FR
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/203424
 #EXTINF:-1 tvg-id="Ciné+.Frisson.fr" tvg-name="Ciné+ Frisson FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/cine-plus-frisson-fr.png?raw=true" group-title="Premium - EU",Ciné+ Frisson FR
@@ -866,45 +871,45 @@ http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/32808
 #EXTINF:-1 tvg-id="Planète+.Aventure.fr" tvg-name="Planète+ Aventure FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/planete-plus-aventure-fr.png?raw=true" group-title="Premium - EU",Planète+ Aventure FR
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1229
 #EXTINF:-1 tvg-id="Planète+.Crime.fr" tvg-name="Planète+ Crime FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/planete-plus-crime-fr.png?raw=true" group-title="Premium - EU",Planète+ Crime FR
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/353
+http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/1230
 
 # === 🇩🇪 DE ===
 
 #EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" tvg-name="Sky Cinema Premiere DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Cinema_Premiere_2020.svg" group-title="Premium - EU",Sky Cinema Premiere DE
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/268100
+http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/149150
 #EXTINF:-1 tvg-id="Sky.Cinema.Highlights.HD.de" tvg-name="Sky Cinema Blockbuster DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sky_Cinema_Blockbuster.svg" group-title="Premium - EU",Sky Cinema Blockbuster DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/9651
+http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/149155
 #EXTINF:-1 tvg-id="Sky.Cinema.Family.HD.de" tvg-name="Sky Cinema Feelgood DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Sky_Cinema_Feelgood.svg" group-title="Premium - EU",Sky Cinema Feelgood DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12864
+http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/149154
 #EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.de" tvg-name="Sky Cinema Action DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Sky_Cinema_Action_2020.svg" group-title="Premium - EU",Sky Cinema Action DE
-http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/78454
+http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/8605
 #EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Cinema_Classics_2020.svg" group-title="Premium - EU",Sky Cinema Classics DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/110
+http://luxus-iptv.xyz:8000/HakanKara01/XGuSAvs5Kc/149158
 
 # === 🇪🇸 ES ===
 
 #EXTINF:-1 tvg-id="Movistar.Plus.es" tvg-name="Movistar Plus+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/movistar-plus-es.png?raw=true" group-title="Premium - EU",Movistar Plus+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/150540
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50297
 #EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="Acción por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/accion-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Acción por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/23042
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50314
 #EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="Cine Español por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/cine-espanol-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Cine Español por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/150526
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/65947
 #EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="Clásicos por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/clasicos-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Clásicos por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/3388
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/534084
 #EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="Comedia por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/comedia-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Comedia por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/23043
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50311
 #EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="Drama por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/drama-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Drama por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/23039
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50307
 #EXTINF:-1 tvg-id="M+.Documentales.es" tvg-name="Documentales por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/documentales-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Documentales por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/150544
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/940532
 #EXTINF:-1 tvg-id="M+.Estrenos.es" tvg-name="Estrenos por M+ ES" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Estrenos_por_M%2B.png" group-title="Premium - EU",Estrenos por M+ ES
-http://asmr4k.world:8080/05347247405/3100934708/534594
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50295
 #EXTINF:-1 tvg-id="M+.Hits.es" tvg-name="Hits por M+ ES" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Hits_por_M%2B.png" group-title="Premium - EU",Hits por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/3365
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50289
 #EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="Indie por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/indie-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Indie por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/23069
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/940529
 #EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="Originales por M+ ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/originales-por-movistar-plus-es.png?raw=true" group-title="Premium - EU",Originales por M+ ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/23034
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/50378
 
 # === 🇮🇹 IT ===
 
@@ -947,7 +952,7 @@ http://asmr4k.world:8080/05347247405/3100934708/358805
 #EXTINF:-1 tvg-id="CANAL+.Film.HD.pl" tvg-name="CANAL+ Film PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-film-pl.png?raw=true" group-title="Premium - EU",CANAL+ Film PL
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/264898
 #EXTINF:-1 tvg-id="CANAL+.Seriale.HD.pl" tvg-name="CANAL+ Seriale PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-seriale-pl.png?raw=true" group-title="Premium - EU",CANAL+ Seriale PL
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/916427
+http://asmr4k.world:8080/05347247405/3100934708/358809
 #EXTINF:-1 tvg-id="CANAL+.Family.HD.pl" tvg-name="CANAL+ 360 PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/canal-plus-360-pl.png?raw=true" group-title="Premium - EU",CANAL+ 360 PL
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1161583
 #EXTINF:-1 tvg-id="HBO.HD.pl" tvg-name="HBO PL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/hbo-pl.png?raw=true" group-title="Premium - EU",HBO PL
@@ -1351,7 +1356,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98833
 #EXTINF:-1 tvg-id="E4.Extra.uk" tvg-name="E4 Extra UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/e-4-extra-uk.png?raw=true" group-title="UK",E4 Extra UK
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1286332
 #EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/film-4-uk.png?raw=true" group-title="UK",Film4 UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7627
+http://wickediptv.xyz/Randall123/Randall321/53896
 #EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="More4 UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-more-uk.png?raw=true" group-title="UK",More4 UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/37141
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/4-seven-uk.png?raw=true" group-title="UK",4seven UK
@@ -1361,7 +1366,7 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98847
 #EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-action-uk.png?raw=true" group-title="UK",5ACTION UK
 http://wickediptv.xyz/Randall123/Randall321/204605
 #EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-select-uk.png?raw=true" group-title="UK",5SELECT UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12309
+http://wickediptv.xyz/Randall123/Randall321/53829
 #EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5STAR UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-star-uk.png?raw=true" group-title="UK",5STAR UK
 http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/246
 #EXTINF:-1 tvg-id="5.USA.uk" tvg-name="5 USA UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/5-usa-uk.png?raw=true" group-title="UK",5 USA UK
@@ -1369,9 +1374,9 @@ http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/247
 #EXTINF:-1 tvg-id="QUEST.HD.uk" tvg-name="Quest UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/quest-uk.png?raw=true" group-title="UK",Quest UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/110055
 #EXTINF:-1 tvg-id="Quest.Red.uk" tvg-name="Quest Red UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/quest-red-uk.png?raw=true" group-title="UK",Quest Red UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/74212
+http://wickediptv.xyz/Randall123/Randall321/53945
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/s4c-uk.png?raw=true" group-title="UK",S4C UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12491
+http://wickediptv.xyz/Randall123/Randall321/204609
 #EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-arts-uk.png?raw=true" group-title="UK",Sky Arts UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98808
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" group-title="UK",Sky Atlantic UK
@@ -1403,13 +1408,13 @@ http://89.187.179.148:826/anto.j/c9yJDcXyPe/98855
 #EXTINF:-1 tvg-id="U.and.Dave.HD.uk" tvg-name="U&Dave UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-dave-uk.png?raw=true" group-title="UK",U&Dave UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/98844
 #EXTINF:-1 tvg-id="U.and.Drama.uk" tvg-name="U&Drama UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-drama-uk.png?raw=true" group-title="UK",U&Drama UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1272
+http://wickediptv.xyz/Randall123/Randall321/53884
 #EXTINF:-1 tvg-id="U.and.Eden.uk" tvg-name="U&Eden UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-eden-uk.png?raw=true" group-title="UK",U&Eden UK
 http://163.172.64.96:2017/GBa19qrcQYa3/u2c8FLfgkK/272
 #EXTINF:-1 tvg-id="U.and.Gold.uk" tvg-name="U&GOLD UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-gold-uk.png?raw=true" group-title="UK",U&GOLD UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/37126
 #EXTINF:-1 tvg-id="U.and.W.HD.uk" tvg-name="U&W UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-w-uk.png?raw=true" group-title="UK",U&W UK
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/12476
+http://29047.performservers.cz/ozant/1sj8i79hk3/358718
 #EXTINF:-1 tvg-id="U.and.YESTERDAY.uk" tvg-name="U&YESTERDAY UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/u-and-yesterday-uk.png?raw=true" group-title="UK",U&YESTERDAY UK
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/37106
 #EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFCTV UK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/lfctv-uk.png?raw=true" group-title="UK",LFCTV UK
@@ -1485,13 +1490,13 @@ http://iptv1.kavkom.tv:8000/3SIXhE2oTo/yqHpzdqqCP/2552
 #EXTINF:-1 tvg-id="" tvg-name="Golf+ FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/golf-plus-fr.png?raw=true" group-title="FR",Golf+ FR
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/250662
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/gulli-fr.png?raw=true" group-title="FR",Gulli FR
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2625
+http://wickediptv.xyz/Randall123/Randall321/287883
 #EXTINF:-1 tvg-id="Infosport+.fr" tvg-name="Infosport+ FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/infosport-plus-fr.png?raw=true" group-title="FR",Infosport+ FR
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/32840
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/lci-fr.png?raw=true" group-title="FR",LCI FR
 http://obsfullhd.tv:25461/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/1960
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-fr.png?raw=true" group-title="FR",M6 FR
-http://line.ez-nttvgold.vip/Salamamigoaliman/wmxo3wax9u/2052915
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/2052915
 #EXTINF:-1 tvg-id="M6.Music.fr" tvg-name="M6 Music FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/m6-music-fr.png?raw=true" group-title="FR",M6 Music FR
 http://iptv1.kavkom.tv:8000/3SIXhE2oTo/yqHpzdqqCP/23607
 #EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/mcm-fr.png?raw=true" group-title="FR",MCM FR
@@ -1539,7 +1544,7 @@ http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/48027
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tfx-fr.png?raw=true" group-title="FR",TFX FR
 http://obsfullhd.tv:25461/Exchcyprusiptv/cDbcUX4ehDDLSLHFSDGBJFSLHFlkhkfs/11017
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tmc-fr.png?raw=true" group-title="FR",TMC FR
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2606
+http://wickediptv.xyz/Randall123/Randall321/287886
 #EXTINF:-1 tvg-id="TRACE.CARIBBEAN.fr" tvg-name="Trace Caribbean FR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Trace_Caribbean_2022.svg" group-title="FR",Trace Caribbean FR
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/275665
 #EXTINF:-1 tvg-id="TV5.Monde.fr" tvg-name="TV5 Monde FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tv5-monde-fr.png?raw=true" group-title="FR",TV5 Monde FR
@@ -1547,7 +1552,7 @@ http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/7528
 #EXTINF:-1 tvg-id="TV.Breizh.fr" tvg-name="TV Breizh FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/tv-breizh-fr.png?raw=true" group-title="FR",TV Breizh FR
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/148472
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/france/w9-fr.png?raw=true" group-title="FR",W9 FR
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/362
+http://wickediptv.xyz/Randall123/Randall321/287884
 
 # === 🇩🇪 DE ===
 # https://www.vodafone.de/media/downloads/pdf/tv_channel_overview/240321_vdf_BB_Senderuebersicht_GigaTVCableBox2_208x260.pdf
@@ -1561,13 +1566,13 @@ http://29047.performservers.cz/ozant/1sj8i79hk3/230174
 #EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/arte-de.png?raw=true" group-title="DE",arte DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230158
 #EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/br-de.png?raw=true" group-title="DE",BR DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2561
+http://falcontv.top/0990183718/6298570159/404000
 #EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/das-erste-de.png?raw=true" group-title="DE",Das Erste DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4659
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/268004
 #EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="DELUXE MUSIC DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/deluxe-music-de.png?raw=true" group-title="DE",DELUXE MUSIC DE
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/268003
 #EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/dmax-de.png?raw=true" group-title="DE",DMAX DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7557
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/78477
 #EXTINF:-1 tvg-id="GEO.Television.de" tvg-name="GEO TV DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/geo-de.png?raw=true" group-title="DE",GEO TV DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230493
 #EXTINF:-1 tvg-id="HR.de" tvg-name="HR DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/hr-de.png?raw=true" group-title="DE",HR DE
@@ -1625,23 +1630,23 @@ http://29047.performservers.cz/ozant/1sj8i79hk3/230157
 #EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="Sky Atlantic DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Sky_Atlantic_2026.svg" group-title="DE",Sky Atlantic DE
 http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/180138
 #EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="Sky Crime DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Sky_Crime_2026.svg" group-title="DE",Sky Crime DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/35256
+http://wickediptv.xyz/Randall123/Randall321/275122
 #EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Sky_Documentaries_2026.svg" group-title="DE",Sky Documentaries DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230309
 #EXTINF:-1 tvg-id="Sky.Krimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sky_Krimi_2026.svg" group-title="DE",Sky Krimi DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/114
+http://wickediptv.xyz/Randall123/Randall321/275103
 #EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="Sky Nature DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Sky_Nature_2026.svg" group-title="DE",Sky Nature DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230307
 #EXTINF:-1 tvg-id="Sky.One.de" tvg-name="Sky One DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Sky_One_2026.svg" group-title="DE",Sky One DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7870
+http://wickediptv.xyz/Randall123/Randall321/275051
 #EXTINF:-1 tvg-id="SyFy.de" tvg-name="Sky Sci-Fi DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Sky_Sci-Fi_2026.svg" group-title="DE",Sky Sci-Fi DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230315
 #EXTINF:-1 tvg-id="Sky.Showcase.de" tvg-name="Sky Showcase DE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Sky_Showcase_2026_I.svg" group-title="DE",Sky Showcase DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/35250
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/15015
 #EXTINF:-1 tvg-id="SPORT1.de" tvg-name="SPORT1 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/sport1-de.png?raw=true" group-title="DE",SPORT1 DE
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/78467
 #EXTINF:-1 tvg-id="SWR/SR.de" tvg-name="SWR DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/swr-de.png?raw=true" group-title="DE",SWR DE
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7568
+http://falcontv.top/0990183718/6298570159/404131
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/tagesschau24-de.png?raw=true" group-title="DE",tagesschau24 DE
 http://29047.performservers.cz/ozant/1sj8i79hk3/230180
 #EXTINF:-1 tvg-id="Tele.5.de" tvg-name="TELE 5 DE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/tele-5-de.png?raw=true" group-title="DE",TELE 5 DE
@@ -1675,7 +1680,7 @@ http://29047.performservers.cz/ozant/1sj8i79hk3/230140
 #EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3 ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/antena-3-es.png?raw=true" group-title="ES",Antena 3 ES
 http://89.187.179.148:826/anto.j/c9yJDcXyPe/109860
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/atreseries-es.png?raw=true" group-title="ES",Atreseries ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/19208
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/1235268
 #EXTINF:-1 tvg-id="Be.Mad.es" tvg-name="Be Mad ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/be-mad-tv-es.png?raw=true" group-title="ES",Be Mad ES
 http://29047.performservers.cz/ozant/1sj8i79hk3/356743
 #EXTINF:-1 tvg-id="Calle.13.es" tvg-name="Calle 13 ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/calle-13-es.png?raw=true" group-title="ES",Calle 13 ES
@@ -1709,7 +1714,7 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/2616
 #EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/telecinco-es.png?raw=true" group-title="ES",Telecinco ES
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/677
 #EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/tdp-es.png?raw=true" group-title="ES",Teledeporte ES
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1089
+http://oacost.vivotv.vip/VillaCanariaLuna/d9nxo3cgd4/192819
 #EXTINF:-1 tvg-id="Ten.es" tvg-name="Ten ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/ten-es.png?raw=true" group-title="ES",Ten ES
 http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1785179
 #EXTINF:-1 tvg-id="TRECE.es" tvg-name="Trece ES" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/trece-es.png?raw=true" group-title="ES",Trece ES
@@ -1719,9 +1724,9 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/113867
 # https://www.canalisat.it/stampativusat
 
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale5-it.png?raw=true" group-title="IT",Canale 5 IT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/981
+http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/172279
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cielo-it.png?raw=true" group-title="IT",Cielo IT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/998
+http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/172319
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34 IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/cine34-it.png?raw=true" group-title="IT",Cine34 IT
 http://29047.performservers.cz/ozant/1sj8i79hk3/357798
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus IT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/focus-it.png?raw=true" group-title="IT",Focus IT
@@ -1811,49 +1816,49 @@ http://29047.performservers.cz/ozant/1sj8i79hk3/357805
 # https://community.vodafoneziggo.nl/phxsb37772/attachments/phxsb37772/TV/104333/1/2022_03_ziggo_zenderoverzicht_digitaal.pdf
 
 #EXTINF:-1 tvg-id="100%.NL.TV.nl" tvg-name="100% NL TV NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/100p-nl-tv-nl.png?raw=true" group-title="NL",100% NL TV NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2376
+http://falcontv.top/0990183718/6298570159/380017
 #EXTINF:-1 tvg-id="192TV.nl" tvg-name="192TV NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/192-tv-nl.png?raw=true" group-title="NL",192TV NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2371
+http://falcontv.top/0990183718/6298570159/380018
 #EXTINF:-1 tvg-id="DanceTelevision.nl" tvg-name="Dance Television NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/dance-television-nl.png?raw=true" group-title="NL",Dance Television NL
 http://atlanticflixtv.online/1552952/97L6A58/169715
 #EXTINF:-1 tvg-id="Net5.nl" tvg-name="Net5. NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/net5-nl.png?raw=true" group-title="NL",Net5. NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/902
+http://falcontv.top/0990183718/6298570159/380069
 #EXTINF:-1 tvg-id="NPO.1.nl" tvg-name="NPO 1 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo1-nl.png?raw=true" group-title="NL",NPO 1 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4117
+http://falcontv.top/0990183718/6298570159/380073
 #EXTINF:-1 tvg-id="NPO.1.Extra.nl" tvg-name="NPO 1 extra NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo1-extra-nl.png?raw=true" group-title="NL",NPO 1 extra NL
 http://29047.performservers.cz/ozant/1sj8i79hk3/357852
 #EXTINF:-1 tvg-id="NPO.2.nl" tvg-name="NPO 2 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo2-nl.png?raw=true" group-title="NL",NPO 2 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4118
+http://falcontv.top/0990183718/6298570159/380075
 #EXTINF:-1 tvg-id="NPO.2.Extra.nl" tvg-name="NPO 2 extra NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo2-extra-nl.png?raw=true" group-title="NL",NPO 2 extra NL
 http://29047.performservers.cz/ozant/1sj8i79hk3/357851
 #EXTINF:-1 tvg-id="NPO.3.nl" tvg-name="NPO 3 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo3-nl.png?raw=true" group-title="NL",NPO 3 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/4119
+http://falcontv.top/0990183718/6298570159/380077
 #EXTINF:-1 tvg-id="NPO.Politiek.en.Nieuws.nl" tvg-name="NPO Politiek en Nieuws NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/npo-politiek-en-nieuws-nl.png?raw=true" group-title="NL",NPO Politiek en Nieuws NL
 http://wickediptv.xyz/Randall123/Randall321/288146
 #EXTINF:-1 tvg-id="RTL.4.nl" tvg-name="RTL 4 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl4-nl.png?raw=true" group-title="NL",RTL 4 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1060
+http://29047.performservers.cz/ozant/1sj8i79hk3/357942
 #EXTINF:-1 tvg-id="RTL.5.nl" tvg-name="RTL 5 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl5-nl.png?raw=true" group-title="NL",RTL 5 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1061
+http://29047.performservers.cz/ozant/1sj8i79hk3/357940
 #EXTINF:-1 tvg-id="RTL.7.nl" tvg-name="RTL 7 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl7-nl.png?raw=true" group-title="NL",RTL 7 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1062
+http://29047.performservers.cz/ozant/1sj8i79hk3/357936
 #EXTINF:-1 tvg-id="RTL.8.nl" tvg-name="RTL 8 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl8-nl.png?raw=true" group-title="NL",RTL 8 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1063
+http://29047.performservers.cz/ozant/1sj8i79hk3/357930
 #EXTINF:-1 tvg-id="RTL.Crime.nl" tvg-name="RTL Crime NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl-crime-nl.png?raw=true" group-title="NL",RTL Crime NL
 http://wickediptv.xyz/Randall123/Randall321/288185
 #EXTINF:-1 tvg-id="RTL.Lounge.nl" tvg-name="RTL Lounge NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl-lounge-nl.png?raw=true" group-title="NL",RTL Lounge NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/7933
+http://29047.performservers.cz/ozant/1sj8i79hk3/357836
 #EXTINF:-1 tvg-id="RTL.Telekids.nl" tvg-name="RTL Telekids NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtl-telekids-nl.png?raw=true" group-title="NL",RTL Telekids NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/2377
+http://29047.performservers.cz/ozant/1sj8i79hk3/357835
 #EXTINF:-1 tvg-id="RTL.Z.nl" tvg-name="RTL Z NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/rtlz-nl.png?raw=true" group-title="NL",RTL Z NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1366
+http://29047.performservers.cz/ozant/1sj8i79hk3/357928
 #EXTINF:-1 tvg-id="SBS6.nl" tvg-name="SBS6 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/sbs6-nl.png?raw=true" group-title="NL",SBS6 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/900
+http://29047.performservers.cz/ozant/1sj8i79hk3/357938
 #EXTINF:-1 tvg-id="SBS9.nl" tvg-name="SBS9 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/sbs9-nl.png?raw=true" group-title="NL",SBS9 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/898
+http://wickediptv.xyz/Randall123/Randall321/288219
 #EXTINF:-1 tvg-id="SLAM!TV.nl" tvg-name="SLAM! NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/slam-tv-nl.png?raw=true" group-title="NL",SLAM! NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1365
+http://wickediptv.xyz/Randall123/Randall321/288179
 #EXTINF:-1 tvg-id="TV538.nl" tvg-name="TV 538 NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/tv-538-nl.png?raw=true" group-title="NL",TV 538 NL
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/1362
+http://wickediptv.xyz/Randall123/Randall321/288176
 #EXTINF:-1 tvg-id="TV.Oranje.nl" tvg-name="TV Oranje NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/tv-oranje-nl.png?raw=true" group-title="NL",TV Oranje NL
 http://falcontv.top/0990183718/6298570159/380117
 #EXTINF:-1 tvg-id="XITE.nl" tvg-name="XITE NL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true" group-title="NL",XITE NL
@@ -2001,7 +2006,7 @@ http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/156912
 #EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-name="CMTV PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/cmtv-pt.png?raw=true" group-title="PT",CMTV PT
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/156913
 #EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cnn-portugal.svg" group-title="PT",CNN Portugal PT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/42095
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1945335
 #EXTINF:-1 tvg-id="Canal.Hollywood.HD.pt" tvg-name="Hollywood PT" tvg-logo="https://canalhollywood.pt/wp-content/themes/appx-hello-child/elementor-widgets/assets/logo-CHW-marca-negativo-duotono.svg" group-title="PT",Hollywood PT
 http://802017341873.plus-26.com/w4gzmeoiw6/kyul5gyvkp/156930
 #EXTINF:-1 tvg-id="NOS.Studios.HD.pt" tvg-name="NOS Studios PT" tvg-logo="https://garyshare.sharewithyou.dpdns.org/logos/Nos_Studios.png" group-title="PT",NOS Studios PT
@@ -2033,7 +2038,7 @@ http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1945418
 #EXTINF:-1 tvg-id="Star.Crime.HD.pt" tvg-name="Star Crime PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-crime-pt.png?raw=true" group-title="PT",Star Crime PT
 http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/179086
 #EXTINF:-1 tvg-id="Star.Life.HD.pt" tvg-name="Star Life PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-life-pt.png?raw=true" group-title="PT",Star Life PT
-http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/9635
+http://wx78.vpn-cloud.icu:8080/p3v23bcwj2/j9iyghyczo/1945420
 #EXTINF:-1 tvg-id="Star.Movies.HD.pt" tvg-name="Star Movies PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/star-movies-pt.png?raw=true" group-title="PT",Star Movies PT
 http://king-pro8k.xyz/Walidzirag/tSQ1HjS8q8bULpt/179180
 #EXTINF:-1 tvg-id="TVI.HD.pt" tvg-name="TVI PT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/portugal/tvi-pt.png?raw=true" group-title="PT",TVI PT
